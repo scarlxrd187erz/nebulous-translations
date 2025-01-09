@@ -18,7 +18,7 @@
     <string name="PLAY">"IGRAJ"</string>
     <string name="OPTIONS">"OPCIJE"</string>
 
-    <string name="Avatar_">"Skin "</string>
+    <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Ime:"</string>
 
     <string name="Loading___">"Učitavanje…"</string>
@@ -35,7 +35,7 @@
     <string name="_Rank_">" Rang "</string>
     <string name="_Alias_">" Alijas "</string>
     <string name="_Score_">" Rezultat "</string>
-    <string name="Score__">"Rezultat :"</string>
+    <string name="Score__">"Rezultat:"</string>
     <string name="Recombine_">"Spajanje:"</string>
     <string name="WINNER_">"POBJEDNIK:"</string>
     <string name="IDLE">"NEAKTIVAN"</string>
@@ -264,7 +264,7 @@
 
 
     <string name="JOIN_CLAN">"PRIDRUŽI SE KLANU"</string>
-    <string name="JOIN_RANDOM_CLAN">"PRIDRUŽI SE RANDOM KLANU"</string>
+    <string name="JOIN_RANDOM_CLAN">"PRIDRUŽI SE NASUMIČNOM KLANU"</string>
     <string name="LEAVE_CLAN">"NAPUSTI KLAN"</string>
     <string name="INVITE_MEMBER">"POZOVI ČLANA"</string>
     <string name="REMOVE_MEMBER">"UKLONI ČLANA"</string>
@@ -1313,7 +1313,7 @@ Commands: (Komande)
     <string name="You_are_already_friends_">Vi ste već prijatelji.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Račun mora biti star 1 dan da šalje poštu.</string>
     <string name="Translator">Prevoditelj</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">USPJEH</string>
 
 
     <string-array name="control_modes">
